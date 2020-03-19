@@ -1,4 +1,4 @@
 config:
   info: "hello world"
 server:
-  port1: 3359
+  port1: 3352
